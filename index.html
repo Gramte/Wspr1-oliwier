@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olys Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Olys Webside</h1>
+    </header>
+
+    <div class="content-container">
+        <div class="left-side">
+            <h3>THE WEB AAAAAAAAAAAAAAAAAAA.</h3>
+            <section>
+                <button onclick="openOverlay()">Truth</button>
+            </section>
+        </div>
+        <a href="index.php" target="_blank">index.php</a>
+        
+        <div class="right-side">
+            <a>
+                <img src="Pictures/image1.webp" alt="Image 1">
+            </a>
+            <a>
+                <img src="Pictures/image2.png" alt="Image 2">
+            </a>
+            <a>
+                <img src="Pictures/image3.webp" alt="Image 3">
+            </a>
+        </div>
+    </div>
+
+    <div class="overlay" id="overlay">
+        <div class="modal">
+            <p>You're a popo head. HAAAA</p>
+            <button class="close-btn" onclick="closeOverlay()">Close Truth</button>
+        </div>
+    </div>
+
+    <script>
+        function openOverlay() {
+            document.getElementById('overlay').style.display = 'flex';
+        }
+
+        function closeOverlay() {
+            document.getElementById('overlay').style.display = 'none';
+        }
+    </script>
+
+</body>
+</html>
