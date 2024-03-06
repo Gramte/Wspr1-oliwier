@@ -16,6 +16,6 @@ Discover a treasure trove of features tailored to fulfill your every need. From 
 ### 4. Regal Responsiveness
 Experience the royal treatment across all devices and screen sizes. Whether you're accessing Olys Website from a towering desktop or a sleek mobile device, our responsive design ensures a majestic experience, tailored to fit your chosen realm.
 
-!Olys Website([link-to-image.png](https://media.discordapp.net/attachments/884481428291715122/1211303185566924861/nahidGibb.png?ex=65f6ef80&is=65e47a80&hm=698e35ae34a9f6b1c11a45e2a18703bf057466ebe0d402ab239df2f1e7a2e5cb&=&format=webp&quality=lossless&width=437&height=656))
+!Olys Website([link-to-image.png](https://media.discordapp.net/attachments/884481428291715122/1211303185566924861/nahidGibb.png?ex=65f6ef80&is=65e47a80&hm=698e35ae34a9f6b1c11a45e2a18703bf057466ebe0d402ab239df2f1e7a2e5cb&=&format=webp&quality=lossless&width=437&height=656)
 
 *Disclaimer: Olys Website is a fictional website created for demonstration purposes only and is not responsible for any kind of trauma or self harm.*
